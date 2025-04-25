@@ -10,3 +10,5 @@ target.cfg.d
 build/
 dist/
 *.egg-info
+/.idea/
+/.venv/

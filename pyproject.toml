@@ -1,0 +1,11 @@
+[project]
+name = "websockify"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.6"
+dependencies = [
+    "jwcrypto>=1.5.1",
+    "numpy>=1.19.5",
+    "redis>=4.3.6",
+    "requests>=2.27.1",
+]
